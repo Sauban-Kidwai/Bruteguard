@@ -17,7 +17,7 @@ BruteGuard is a lightweight, cron-powered shell script that parses your systemâ€
 ### 1. Clone or Download the Script
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/bruteguard/main/bruteguard.sh
+wget https://raw.githubusercontent.com/Sauban-Kidwai/bruteguard/main/bruteguard.sh
 chmod +x bruteguard.sh
 ```
 
